@@ -14,3 +14,14 @@ Some images of game (you can customize according to your need on unity):
 
 ![Alt text](https://github.com/sudhanshu7739/My-Bird-game-2d/blob/main/Screenshot%20(10).png)
 
+
+![Alt text](https://github.com/sudhanshu7739/My-Bird-game-2d/blob/main/Screenshot%20(11).png)
+
+
+![Alt text](https://github.com/sudhanshu7739/My-Bird-game-2d/blob/main/Screenshot%20(12).png)
+
+
+![Alt text](https://github.com/sudhanshu7739/My-Bird-game-2d/blob/main/Screenshot%20(13).png)
+
+
+![Alt text](https://github.com/sudhanshu7739/My-Bird-game-2d/blob/main/Screenshot%20(14).png)

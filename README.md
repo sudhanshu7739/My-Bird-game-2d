@@ -15,14 +15,14 @@ Some images of game (you can customize according to your need on unity):
 
 ![Alt text](https://github.com/sudhanshu7739/My-Bird-game-2d/blob/main/Screenshot%20(10).png)
 
-
+### Game
 ![Alt text](https://github.com/sudhanshu7739/My-Bird-game-2d/blob/main/Screenshot%20(11).png)
 
-
+### Game Over
 ![Alt text](https://github.com/sudhanshu7739/My-Bird-game-2d/blob/main/Screenshot%20(12).png)
 
-
+### Small menu
 ![Alt text](https://github.com/sudhanshu7739/My-Bird-game-2d/blob/main/Screenshot%20(13).png)
 
-
+### Pause
 ![Alt text](https://github.com/sudhanshu7739/My-Bird-game-2d/blob/main/Screenshot%20(14).png)
